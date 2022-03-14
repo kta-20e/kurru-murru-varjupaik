@@ -3,12 +3,12 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   target: 'static',
   router: {
-    base: '/kurru-murru/'
+    base: '/kurru-murru-varjupaik/'
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - kasside-varjupaik',
-    title: 'kasside-varjupaik',
+    titleTemplate: '%s - kurru-murru',
+    title: 'kurru-murru',
     htmlAttrs: {
       lang: 'en'
     },
